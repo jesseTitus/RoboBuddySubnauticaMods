@@ -1,0 +1,11 @@
+{
+  "Id": "MyEscapePodReposition",
+  "DisplayName": "Escape Pod Reposition",
+  "Author": "RoboBuddy",
+  "Version": "0.0.1",
+  "Requires": [ ],
+  "Enable": true,
+  "AssemblyName": "MyEscapePodReposition.dll",
+  "EntryMethod": "MyEscapePodReposition.MainPatcher.Patch",
+  "Config": {}
+}

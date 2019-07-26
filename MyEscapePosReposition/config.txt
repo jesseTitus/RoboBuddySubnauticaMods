@@ -1,0 +1,18 @@
+﻿Selection=Custom
+300,100,300
+Replace the value after 'Selection=' with your selection.
+
+Possible selection options: 
+Custom            
+Random
+Landfall
+Mountain Island
+Floating Island
+Safe Shallows
+Oasis
+Dunes
+
+Note regarding Custom selection:
+Type the coordinates where you want to spawn on the second line of this file in the format x,y,z.
+Take care that you have an idea where you're going ahead of time. Spawning far off the map or inside other objects can 
+have unintended and at times gamebreaking consequences.  If you're not using the Custom selection then this line can be safely ignored.
